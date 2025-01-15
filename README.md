@@ -1,5 +1,12 @@
 # phylogeography_efp_repository
 Scripts and data for Science submission Williams et al Jan 2025
+(C) 2025 Geoffrey M Williams
+
+This project was funded by USDA
+
+## Citation
+
+Williams GM, Augustinus B, Brockerhoff EG, Christen S, Coyle DR, Gougherty A, Lynch SC, Sakalidis ML, Roy K, Stallman JK, Franic I, Ghelardini L, Santini A, Sniezko RA. 2025. Phylogeography drives forest pathogen establishment. In review.
 
 ## Description of contents of respository
 
@@ -44,7 +51,7 @@ Scripts used in the analyes. Within individual folders, any order in which scrip
 3. c_Analysis_Scripts and c_Figures_Scripts: scripts used to put the final data for analysis together and run  analyses, and produce figures and tables of main results
 4. d_Supplemental_Scripts: scripts used to produce supplemental material
 
-### NOTE: Files not in the repository due to size limitations:
+## NOTE: Files not in the repository due to size limitations:
 1. Figures_Sept2-24/climate.maps2.RData
 2. Figures_Sept2024/Fig3_composite_ABCDEF.RData
 3. Final_figures/Fig3_composite_ABCDEF.emf
