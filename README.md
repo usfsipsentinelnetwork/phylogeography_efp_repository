@@ -28,12 +28,21 @@ Contains the data analyzed in this study, along with some of the results
 
 #### Data analyzed or used in study
 1. Final_analysis_data_pathogens-Sept-2024.csv
-2. pest_list_taxonomy.xlsx
+2. pest_list_taxonomy.xlsx and .csv
+
+#### Results of GLM and ANCOVA
+1. linearmodels.RData
+2. results.ancova.offset.stats.Sept_2024_2.csv
+3. results.glm.centered.stats.Sept_2024_pois_2.csv
+4. zinf_model_final.RData
 
 #### Results of partial least square analysis
 1. final_pls_R2.csv
 2. PLS-models-9-10-23.RData
 3. linearmodels.RData
+
+#### Results of structural equation modeling
+1. SEM_grouped_results.csv
 
 ### Host_list
 Contains derived data on country tree lists, exotic tree lists, global tree phylogenies, distance matrices, and ordinations (in folder "Output") and raw data used to derive them (other folders)
