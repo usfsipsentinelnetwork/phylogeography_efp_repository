@@ -1,3 +1,8 @@
+# may not be comprehensive
+# may include packages that are not actually used
+# some packages may not be on CRAN and will need to be googled
+# some code from packages has been edited and put into scripts in the repository
+
 library(ape)
 library(Cairo)
 library(countrycode)
@@ -45,5 +50,5 @@ library(sjPlot)
 library(tidySEM)
 library(tidyverse)
 library(viridis)
-library(V.PhyloMaker2)
+library(V.PhyloMaker2) # github
 library(WorldFlora)
