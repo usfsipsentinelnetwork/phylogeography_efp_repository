@@ -1,0 +1,693 @@
+host,host_name,host_genus,host_authority,AtlanticCanada,CentralCanada,Florida,InlandWestUS,MidwestUS,NorthCentralUS,NortheastUS,NorthernNorthAmerica,NorthwestUS,SoutheastUS,SouthwestUS,WesternCanada
+Abies ×shastensis (Lemmon) Lemmon,Abies ×shastensis,Abies,(Lemmon) Lemmon,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Abies amabilis (Douglas ex Loudon) Douglas ex Forbes,Abies amabilis,Abies,(Douglas ex Loudon) Douglas ex Forbes,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Abies balsamea (L.) Mill.,Abies balsamea,Abies,(L.) Mill.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Abies concolor (Gord. & Glend.) Lindl. ex Hildebr.,Abies concolor,Abies,(Gord. & Glend.) Lindl. ex Hildebr.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+Abies fraseri (Pursh) Poir.,Abies fraseri,Abies,(Pursh) Poir.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Abies grandis (Douglas ex D. Don) Lindl.,Abies grandis,Abies,(Douglas ex D. Don) Lindl.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Abies lasiocarpa (Hook.) Nutt.,Abies lasiocarpa,Abies,(Hook.) Nutt.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Abies magnifica A. Murray bis,Abies magnifica,Abies,A. Murray bis,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+Abies magnifica A. Murray bis var. shastensis Lemmon,Abies magnifica,Abies,A. Murray bis var. shastensis Lemmon,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Abies procera Rehder,Abies procera,Abies,Rehder,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Acacia constricta Benth.,Acacia constricta,Acacia,Benth.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Acacia greggii A. Gray,Acacia greggii,Acacia,A. Gray,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Acer barbatum Michx. p.p.,Acer barbatum,Acer,Michx. p.p.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Acer circinatum Pursh,Acer circinatum,Acer,Pursh,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Acer floridanum (Chapm.) Pax,Acer floridanum,Acer,(Chapm.) Pax,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Acer glabrum Torr.,Acer glabrum,Acer,Torr.,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Acer glabrum Torr. var. douglasii (Hook.) Dippel,Acer glabrum,Acer,Torr. var. douglasii (Hook.) Dippel,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Acer grandidentatum Nutt.,Acer grandidentatum,Acer,Nutt.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+Acer macrophyllum Pursh,Acer macrophyllum,Acer,Pursh,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Acer negundo L.,Acer negundo,Acer,L.,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Acer nigrum Michx. f.,Acer nigrum,Acer,Michx. f.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Acer pensylvanicum L.,Acer pensylvanicum,Acer,L.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Acer rubrum L.,Acer rubrum,Acer,L.,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Acer saccharinum L.,Acer saccharinum,Acer,L.,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+Acer saccharum Marshall,Acer saccharum,Acer,Marshall,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Acer spicatum Lam.,Acer spicatum,Acer,Lam.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Adenostoma fasciculatum Hook. & Arn.,Adenostoma fasciculatum,Adenostoma,Hook. & Arn.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Aesculus californica (Spach) Nutt.,Aesculus californica,Aesculus,(Spach) Nutt.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Aesculus flava Aiton,Aesculus flava,Aesculus,Aiton,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Aesculus glabra Willd.,Aesculus glabra,Aesculus,Willd.,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Aesculus pavia L.,Aesculus pavia,Aesculus,L.,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Aesculus sylvatica W. Bartram,Aesculus sylvatica,Aesculus,W. Bartram,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Agave americana L.,Agave americana,Agave,L.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Agave utahensis Engelm.,Agave utahensis,Agave,Engelm.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Agoseris glauca (Pursh) Raf.,Agoseris glauca,Agoseris,(Pursh) Raf.,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Alnus incana (L.) Moench,Alnus incana,Alnus,(L.) Moench,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Alnus incana (L.) Moench ssp. rugosa (Du Roi) R.T. Clausen,Alnus incana,Alnus,(L.) Moench ssp. rugosa (Du Roi) R.T. Clausen,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Alnus incana (L.) Moench ssp. tenuifolia (Nutt.) Breitung,Alnus incana,Alnus,(L.) Moench ssp. tenuifolia (Nutt.) Breitung,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Alnus maritima (Marshall) Muhl. ex Nutt.,Alnus maritima,Alnus,(Marshall) Muhl. ex Nutt.,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Alnus rhombifolia Nutt.,Alnus rhombifolia,Alnus,Nutt.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Alnus rubra Bong.,Alnus rubra,Alnus,Bong.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Alnus serrulata (Aiton) Willd.,Alnus serrulata,Alnus,(Aiton) Willd.,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Alnus viridis (Chaix) DC. ssp. crispa (Aiton) Turrill,Alnus viridis,Alnus,(Chaix) DC. ssp. crispa (Aiton) Turrill,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+Alnus viridis (Chaix) DC. ssp. sinuata (Regel) Á. Löve & D. Löve,Alnus viridis,Alnus,(Chaix) DC. ssp. sinuata (Regel) Á. Löve & D. Löve,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Ambrosia dumosa (A. Gray) Payne,Ambrosia dumosa,Ambrosia,(A. Gray) Payne,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Amelanchier alnifolia (Nutt.) Nutt. ex M. Roem.,Amelanchier alnifolia,Amelanchier,(Nutt.) Nutt. ex M. Roem.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Amelanchier alnifolia (Nutt.) Nutt. ex M. Roem. var. semiintegrifolia (Hook.) C.L. Hitchc.,Amelanchier alnifolia,Amelanchier,(Nutt.) Nutt. ex M. Roem. var. semiintegrifolia (Hook.) C.L. Hitchc.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Amelanchier arborea (Michx. f.) Fernald,Amelanchier arborea,Amelanchier,(Michx. f.) Fernald,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Amelanchier canadensis (L.) Medik.,Amelanchier canadensis,Amelanchier,(L.) Medik.,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Amelanchier laevis Wiegand,Amelanchier laevis,Amelanchier,Wiegand,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Amelanchier obovalis (Michx.) Ashe,Amelanchier obovalis,Amelanchier,(Michx.) Ashe,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Amelanchier sanguinea (Pursh) DC.,Amelanchier sanguinea,Amelanchier,(Pursh) DC.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Amelanchier utahensis Koehne,Amelanchier utahensis,Amelanchier,Koehne,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+Amelanchier utahensis Koehne var. utahensis,Amelanchier utahensis,Amelanchier,Koehne var. utahensis,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+Amorpha canescens Pursh,Amorpha canescens,Amorpha,Pursh,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Amorpha fruticosa L.,Amorpha fruticosa,Amorpha,L.,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+Amorpha glabra Desf. ex Poir.,Amorpha glabra,Amorpha,Desf. ex Poir.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Ampelopsis arborea (L.) Koehne,Ampelopsis arborea,Ampelopsis,(L.) Koehne,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Amyris elemifera L.,Amyris elemifera,Amyris,L.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Andira inermis (W. Wright) Kunth ex DC.,Andira inermis,Andira,(W. Wright) Kunth ex DC.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Anisacanthus thurberi (Torr.) A. Gray,Anisacanthus thurberi,Anisacanthus,(Torr.) A. Gray,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Annona glabra L.,Annona glabra,Annona,L.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Annona squamosa L.,Annona squamosa,Annona,L.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Aralia spinosa L.,Aralia spinosa,Aralia,L.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Arbutus arizonica (A. Gray) Sarg.,Arbutus arizonica,Arbutus,(A. Gray) Sarg.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Arbutus menziesii Pursh,Arbutus menziesii,Arbutus,Pursh,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Arctostaphylos alpina (L.) Spreng.,Arctostaphylos alpina,Arctostaphylos,(L.) Spreng.,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+Arctostaphylos columbiana Piper,Arctostaphylos columbiana,Arctostaphylos,Piper,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Arctostaphylos glauca Lindl.,Arctostaphylos glauca,Arctostaphylos,Lindl.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Arctostaphylos manzanita Parry,Arctostaphylos manzanita,Arctostaphylos,Parry,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Arctostaphylos nevadensis A. Gray,Arctostaphylos nevadensis,Arctostaphylos,A. Gray,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Arctostaphylos patula Greene,Arctostaphylos patula,Arctostaphylos,Greene,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Arctostaphylos pungens Kunth,Arctostaphylos pungens,Arctostaphylos,Kunth,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Arctostaphylos uva-ursi (L.) Spreng.,Arctostaphylos uva-ursi,Arctostaphylos,(L.) Spreng.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Aronia arbutifolia (L.) Pers.,Aronia arbutifolia,Aronia,(L.) Pers.,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Aronia melanocarpa (Michx.) Elliott,Aronia melanocarpa,Aronia,(Michx.) Elliott,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Artemisia arbuscula Nutt.,Artemisia arbuscula,Artemisia,Nutt.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Artemisia cana Pursh,Artemisia cana,Artemisia,Pursh,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Artemisia nova A. Nelson,Artemisia nova,Artemisia,A. Nelson,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Artemisia rigida (Nutt.) A. Gray,Artemisia rigida,Artemisia,(Nutt.) A. Gray,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+Artemisia tridentata Nutt.,Artemisia tridentata,Artemisia,Nutt.,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE
+Artemisia tridentata Nutt. ssp. tridentata,Artemisia tridentata,Artemisia,Nutt. ssp. tridentata,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE
+Artemisia tridentata Nutt. ssp. vaseyana (Rydb.) Beetle,Artemisia tridentata,Artemisia,Nutt. ssp. vaseyana (Rydb.) Beetle,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Artemisia tridentata Nutt. ssp. wyomingensis Beetle & Young,Artemisia tridentata,Artemisia,Nutt. ssp. wyomingensis Beetle & Young,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Artemisia tripartita Rydb.,Artemisia tripartita,Artemisia,Rydb.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
+Arundinaria gigantea (Walter) Muhl.,Arundinaria gigantea,Arundinaria,(Walter) Muhl.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Arundinaria gigantea (Walter) Muhl. ssp. tecta (Walter) McClure,Arundinaria gigantea,Arundinaria,(Walter) Muhl. ssp. tecta (Walter) McClure,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Arundinaria tecta (Walter) Muhl.,Arundinaria tecta,Arundinaria,(Walter) Muhl.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Asimina triloba (L.) Dunal,Asimina triloba,Asimina,(L.) Dunal,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Astragalus lentiginosus Douglas ex Hook.,Astragalus lentiginosus,Astragalus,Douglas ex Hook.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+Atriplex ×aptera A. Nelson (pro sp.) [canescens × nutallii],Atriplex ×aptera,Atriplex,A. Nelson (pro sp.) [canescens × nutallii],FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Atriplex canescens (Pursh) Nutt.,Atriplex canescens,Atriplex,(Pursh) Nutt.,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+Atriplex confertifolia (Torr. & Frém.) S. Watson,Atriplex confertifolia,Atriplex,(Torr. & Frém.) S. Watson,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+Atriplex falcata (M.E. Jones) Standl.,Atriplex falcata,Atriplex,(M.E. Jones) Standl.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Atriplex gardneri (Moq.) D. Dietr.,Atriplex gardneri,Atriplex,(Moq.) D. Dietr.,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Atriplex lentiformis (Torr.) S. Watson,Atriplex lentiformis,Atriplex,(Torr.) S. Watson,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Atriplex polycarpa (Torr.) S. Watson,Atriplex polycarpa,Atriplex,(Torr.) S. Watson,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Avicennia germinans (L.) L.,Avicennia germinans,Avicennia,(L.) L.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Baccharis angustifolia Michx.,Baccharis angustifolia,Baccharis,Michx.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Baccharis halimifolia L.,Baccharis halimifolia,Baccharis,L.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Baccharis pilularis DC.,Baccharis pilularis,Baccharis,DC.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Baccharis salicifolia (Ruiz & Pav.) Pers.,Baccharis salicifolia,Baccharis,(Ruiz & Pav.) Pers.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Baccharis sarothroides A. Gray,Baccharis sarothroides,Baccharis,A. Gray,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Berberis fendleri A. Gray,Berberis fendleri,Berberis,A. Gray,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Betula alleghaniensis Britton,Betula alleghaniensis,Betula,Britton,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Betula lenta L.,Betula lenta,Betula,L.,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Betula nana L.,Betula nana,Betula,L.,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+Betula nigra L.,Betula nigra,Betula,L.,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Betula occidentalis Hook.,Betula occidentalis,Betula,Hook.,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Betula papyrifera Marshall,Betula papyrifera,Betula,Marshall,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
+Betula populifolia Marshall,Betula populifolia,Betula,Marshall,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Betula pumila L.,Betula pumila,Betula,L.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+Bucida buceras L.,Bucida buceras,Bucida,L.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Bursera simaruba (L.) Sarg.,Bursera simaruba,Bursera,(L.) Sarg.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Calliandra eriophylla Benth.,Calliandra eriophylla,Calliandra,Benth.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Callicarpa americana L.,Callicarpa americana,Callicarpa,L.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Callitropsis nootkatensis (D. Don) Oerst. ex D.P. Little,Callitropsis nootkatensis,Callitropsis,(D. Don) Oerst. ex D.P. Little,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Calocedrus decurrens (Torr.) Florin,Calocedrus decurrens,Calocedrus,(Torr.) Florin,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Calophyllum antillanum Britton,Calophyllum antillanum,Calophyllum,Britton,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Canella winterana (L.) Gaertn.,Canella winterana,Canella,(L.) Gaertn.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Capparis cynophallophora L.,Capparis cynophallophora,Capparis,L.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Capparis flexuosa (L.) L.,Capparis flexuosa,Capparis,(L.) L.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Carnegia gigantea (Engelm.) Britton & Rose, orth. var.",Carnegia gigantea,Carnegia,"(Engelm.) Britton & Rose, orth. var.",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Carnegiea gigantea (Engelm.) Britton & Rose,Carnegiea gigantea,Carnegiea,(Engelm.) Britton & Rose,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Carpinus caroliniana Walter,Carpinus caroliniana,Carpinus,Walter,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+"Carya alba (L.) Nutt., nom. utique rej.",Carya alba,Carya,"(L.) Nutt., nom. utique rej.",FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Carya aquatica (Michx. f.) Nutt.,Carya aquatica,Carya,(Michx. f.) Nutt.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Carya cordiformis (Wangenh.) K. Koch,Carya cordiformis,Carya,(Wangenh.) K. Koch,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Carya glabra (Mill.) Sweet,Carya glabra,Carya,(Mill.) Sweet,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Carya illinoinensis (Wangenh.) K. Koch,Carya illinoinensis,Carya,(Wangenh.) K. Koch,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Carya laciniosa (Michx. f.) G. Don,Carya laciniosa,Carya,(Michx. f.) G. Don,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Carya myristiciformis (Michx. f.) Nutt.,Carya myristiciformis,Carya,(Michx. f.) Nutt.,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Carya ovata (Mill.) K. Koch,Carya ovata,Carya,(Mill.) K. Koch,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Carya tomentosa (Lam.) Nutt.,Carya tomentosa,Carya,(Lam.) Nutt.,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Cassiope tetragona (L.) D. Don,Cassiope tetragona,Cassiope,(L.) D. Don,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+Castanea dentata (Marshall) Borkh.,Castanea dentata,Castanea,(Marshall) Borkh.,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Castanea pumila (L.) Mill.,Castanea pumila,Castanea,(L.) Mill.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Catalpa bignonioides Walter,Catalpa bignonioides,Catalpa,Walter,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+Catalpa speciosa (Warder) Warder ex Engelm.,Catalpa speciosa,Catalpa,(Warder) Warder ex Engelm.,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Ceanothus ×flexilis Greene ex McMinn [cuneatus × prostratus],Ceanothus ×flexilis,Ceanothus,Greene ex McMinn [cuneatus × prostratus],FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Ceanothus americanus L.,Ceanothus americanus,Ceanothus,L.,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Ceanothus cordulatus Kellogg,Ceanothus cordulatus,Ceanothus,Kellogg,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Ceanothus cuneatus (Hook.) Nutt.,Ceanothus cuneatus,Ceanothus,(Hook.) Nutt.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Ceanothus fresnensis Dudley ex Abrams,Ceanothus fresnensis,Ceanothus,Dudley ex Abrams,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Ceanothus greggii A. Gray,Ceanothus greggii,Ceanothus,A. Gray,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Ceanothus integerrimus Hook. & Arn.,Ceanothus integerrimus,Ceanothus,Hook. & Arn.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Ceanothus megacarpus Nutt.,Ceanothus megacarpus,Ceanothus,Nutt.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Ceanothus papillosus Torr. & A. Gray,Ceanothus papillosus,Ceanothus,Torr. & A. Gray,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Ceanothus prostratus Benth.,Ceanothus prostratus,Ceanothus,Benth.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Ceanothus sanguineus Pursh,Ceanothus sanguineus,Ceanothus,Pursh,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Ceanothus velutinus Douglas ex Hook.,Ceanothus velutinus,Ceanothus,Douglas ex Hook.,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Celtis ehrenbergiana (Klotzsch) Liebm.,Celtis ehrenbergiana,Celtis,(Klotzsch) Liebm.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Celtis laevigata Willd.,Celtis laevigata,Celtis,Willd.,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+Celtis laevigata Willd. var. reticulata (Torr.) L.D. Benson,Celtis laevigata,Celtis,Willd. var. reticulata (Torr.) L.D. Benson,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+Celtis occidentalis L.,Celtis occidentalis,Celtis,L.,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Celtis pallida Torr.,Celtis pallida,Celtis,Torr.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Cephalanthus occidentalis L.,Cephalanthus occidentalis,Cephalanthus,L.,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Cercis canadensis L.,Cercis canadensis,Cercis,L.,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Cercis canadensis L. var. texensis (S. Watson) M. Hopkins,Cercis canadensis,Cercis,L. var. texensis (S. Watson) M. Hopkins,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Cercocarpus ledifolius Nutt.,Cercocarpus ledifolius,Cercocarpus,Nutt.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Cercocarpus montanus Raf.,Cercocarpus montanus,Cercocarpus,Raf.,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+Chamaebatiaria millefolium (Torr.) Maxim.,Chamaebatiaria millefolium,Chamaebatiaria,(Torr.) Maxim.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Chamaecyparis lawsoniana (A. Murray bis) Parl.,Chamaecyparis lawsoniana,Chamaecyparis,(A. Murray bis) Parl.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Chamaecyparis nootkatensis (D. Don) Spach,Chamaecyparis nootkatensis,Chamaecyparis,(D. Don) Spach,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+"Chamaecyparis thyoides (L.) Britton, Sterns & Poggenb.",Chamaecyparis thyoides,Chamaecyparis,"(L.) Britton, Sterns & Poggenb.",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Chamaedaphne calyculata (L.) Moench,Chamaedaphne calyculata,Chamaedaphne,(L.) Moench,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+Chilopsis linearis (Cav.) Sweet,Chilopsis linearis,Chilopsis,(Cav.) Sweet,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Chionanthus virginicus L.,Chionanthus virginicus,Chionanthus,L.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Choisya dumosa (Torr.) A. Gray,Choisya dumosa,Choisya,(Torr.) A. Gray,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Chrysolepis chrysophylla (Douglas ex Hook.) Hjelmqvist var. chrysophylla,Chrysolepis chrysophylla,Chrysolepis,(Douglas ex Hook.) Hjelmqvist var. chrysophylla,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Chrysolepis sempervirens (Kellogg) Hjelmqvist,Chrysolepis sempervirens,Chrysolepis,(Kellogg) Hjelmqvist,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Chrysothamnus viscidiflorus (Hook.) Nutt.,Chrysothamnus viscidiflorus,Chrysothamnus,(Hook.) Nutt.,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Citharexylum fruticosum L.,Citharexylum fruticosum,Citharexylum,L.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Citharexylum spinosum L.,Citharexylum spinosum,Citharexylum,L.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cladrastis kentukea (Dum. Cours.) Rudd,Cladrastis kentukea,Cladrastis,(Dum. Cours.) Rudd,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Cleome isomeris Greene,Cleome isomeris,Cleome,Greene,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Clethra alnifolia L.,Clethra alnifolia,Clethra,L.,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Coccoloba diversifolia Jacq.,Coccoloba diversifolia,Coccoloba,Jacq.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Coccoloba uvifera (L.) L.,Coccoloba uvifera,Coccoloba,(L.) L.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Coleogyne ramosissima Torr.,Coleogyne ramosissima,Coleogyne,Torr.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Colubrina elliptica (Sw.) Briz. & Stern,Colubrina elliptica,Colubrina,(Sw.) Briz. & Stern,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Comptonia peregrina (L.) J.M. Coult.,Comptonia peregrina,Comptonia,(L.) J.M. Coult.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Cornus alternifolia L. f.,Cornus alternifolia,Cornus,L. f.,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Cornus amomum Mill.,Cornus amomum,Cornus,Mill.,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Cornus canadensis L.,Cornus canadensis,Cornus,L.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Cornus drummondii C.A. Mey.,Cornus drummondii,Cornus,C.A. Mey.,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Cornus florida L.,Cornus florida,Cornus,L.,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Cornus foemina Mill.,Cornus foemina,Cornus,Mill.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Cornus nuttallii Audubon ex Torr. & A. Gray,Cornus nuttallii,Cornus,Audubon ex Torr. & A. Gray,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Cornus racemosa Lam.,Cornus racemosa,Cornus,Lam.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Cornus rugosa Lam.,Cornus rugosa,Cornus,Lam.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Cornus sericea L. ssp. occidentalis (Torr. & A. Gray) Fosberg,Cornus sericea,Cornus,L. ssp. occidentalis (Torr. & A. Gray) Fosberg,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Cornus sericea L. ssp. sericea,Cornus sericea,Cornus,L. ssp. sericea,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Corylus americana Walter,Corylus americana,Corylus,Walter,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Corylus cornuta Marshall,Corylus cornuta,Corylus,Marshall,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+Corylus cornuta Marshall var. californica (A. DC.) Sharp,Corylus cornuta,Corylus,Marshall var. californica (A. DC.) Sharp,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Crataegus ×anomala Sarg. (pro sp.) [intricata × mollis],Crataegus ×anomala,Crataegus,Sarg. (pro sp.) [intricata × mollis],FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Crataegus aestivalis (Walter) Torr. & A. Gray,Crataegus aestivalis,Crataegus,(Walter) Torr. & A. Gray,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Crataegus crus-galli L.,Crataegus crus-galli,Crataegus,L.,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Crataegus douglasii Lindl.,Crataegus douglasii,Crataegus,Lindl.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Crataegus erythropoda Ashe,Crataegus erythropoda,Crataegus,Ashe,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Crataegus marshallii Eggl.,Crataegus marshallii,Crataegus,Eggl.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Crataegus phaenopyrum (L. f.) Medik.,Crataegus phaenopyrum,Crataegus,(L. f.) Medik.,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Crataegus viridis L.,Crataegus viridis,Crataegus,L.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Crescentia cujete L.,Crescentia cujete,Crescentia,L.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cupressus arizonica Greene,Cupressus arizonica,Cupressus,Greene,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Cyrilla racemiflora L.,Cyrilla racemiflora,Cyrilla,L.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Dalea formosa Torr.,Dalea formosa,Dalea,Torr.,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Dasiphora floribunda (Pursh) Raf.,Dasiphora floribunda,Dasiphora,(Pursh) Raf.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Dasiphora fruticosa (L.) Rydb. ssp. floribunda (Pursh) Kartesz,Dasiphora fruticosa,Dasiphora,(L.) Rydb. ssp. floribunda (Pursh) Kartesz,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Dasylirion wheeleri S. Watson,Dasylirion wheeleri,Dasylirion,S. Watson,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Decodon verticillatus (L.) Elliott,Decodon verticillatus,Decodon,(L.) Elliott,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Diervilla lonicera Mill.,Diervilla lonicera,Diervilla,Mill.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Diospyros virginiana L.,Diospyros virginiana,Diospyros,L.,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Ditrysinia fruticosa (W. Bartram) Govaerts & Frodin,Ditrysinia fruticosa,Ditrysinia,(W. Bartram) Govaerts & Frodin,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Dodonaea viscosa (L.) Jacq.,Dodonaea viscosa,Dodonaea,(L.) Jacq.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Dryas drummondii Richardson ex Hook.,Dryas drummondii,Dryas,Richardson ex Hook.,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+Dryas octopetala L.,Dryas octopetala,Dryas,L.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+Elaeagnus commutata Bernh. ex Rydb.,Elaeagnus commutata,Elaeagnus,Bernh. ex Rydb.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
+Elliottia pyroliflora (Bong.) S.W. Brim & P.F. Stevens,Elliottia pyroliflora,Elliottia,(Bong.) S.W. Brim & P.F. Stevens,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+Empetrum nigrum L.,Empetrum nigrum,Empetrum,L.,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+Encelia farinosa A. Gray ex Torr.,Encelia farinosa,Encelia,A. Gray ex Torr.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Ephedra nevadensis S. Watson,Ephedra nevadensis,Ephedra,S. Watson,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Ephedra torreyana S. Watson,Ephedra torreyana,Ephedra,S. Watson,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Ephedra trifurca Torr. ex S. Watson,Ephedra trifurca,Ephedra,Torr. ex S. Watson,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Ephedra viridis Coville,Ephedra viridis,Ephedra,Coville,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Ericameria nauseosa (Pall. ex Pursh) G.L. Nesom & Baird ssp. nauseosa var. nauseosa,Ericameria nauseosa,Ericameria,(Pall. ex Pursh) G.L. Nesom & Baird ssp. nauseosa var. nauseosa,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Ericameria pinifolia (A. Gray) H.M. Hall,Ericameria pinifolia,Ericameria,(A. Gray) H.M. Hall,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Eriodictyon californicum (Hook. & Arn.) Torr.,Eriodictyon californicum,Eriodictyon,(Hook. & Arn.) Torr.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Eriogonum fasciculatum Benth.,Eriogonum fasciculatum,Eriogonum,Benth.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Eriogonum microthecum Nutt.,Eriogonum microthecum,Eriogonum,Nutt.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Eriogonum sphaerocephalum Douglas ex Benth.,Eriogonum sphaerocephalum,Eriogonum,Douglas ex Benth.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Eriogonum umbellatum Torr.,Eriogonum umbellatum,Eriogonum,Torr.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Eriogonum wrightii Torr. ex Benth.,Eriogonum wrightii,Eriogonum,Torr. ex Benth.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Eubotrys racemosus (L.) Nutt.,Eubotrys racemosus,Eubotrys,(L.) Nutt.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Eugenia rhombea (Berg) Krug & Urb.,Eugenia rhombea,Eugenia,(Berg) Krug & Urb.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Euonymus atropurpurea Jacq., orth. var.",Euonymus atropurpurea,Euonymus,"Jacq., orth. var.",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Euonymus atropurpureus Jacq.,Euonymus atropurpureus,Euonymus,Jacq.,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Fagus grandifolia Ehrh.,Fagus grandifolia,Fagus,Ehrh.,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Fallugia paradoxa (D. Don) Endl. ex Torr.,Fallugia paradoxa,Fallugia,(D. Don) Endl. ex Torr.,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Fendlera rupicola A. Gray,Fendlera rupicola,Fendlera,A. Gray,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Ferocactus wislizeni (Engelm.) Britton & Rose,Ferocactus wislizeni,Ferocactus,(Engelm.) Britton & Rose,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Ficus americana Aubl.,Ficus americana,Ficus,Aubl.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Ficus citrifolia Mill.,Ficus citrifolia,Ficus,Mill.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Ficus laevigata Vahl,Ficus laevigata,Ficus,Vahl,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Ficus sintenisii Warb.,Ficus sintenisii,Ficus,Warb.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Flourensia cernua DC.,Flourensia cernua,Flourensia,DC.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Forestiera acuminata (Michx.) Poir.,Forestiera acuminata,Forestiera,(Michx.) Poir.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Forestiera pubescens Nutt. var. pubescens,Forestiera pubescens,Forestiera,Nutt. var. pubescens,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Fothergilla gardenii L.,Fothergilla gardenii,Fothergilla,L.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Fouquieria splendens Engelm.,Fouquieria splendens,Fouquieria,Engelm.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Frangula betulifolia (Greene) V. Grub. ssp. betulifolia,Frangula betulifolia,Frangula,(Greene) V. Grub. ssp. betulifolia,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Frangula californica (Eschsch.) A. Gray ssp. californica,Frangula californica,Frangula,(Eschsch.) A. Gray ssp. californica,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Frangula caroliniana (Walter) A. Gray,Frangula caroliniana,Frangula,(Walter) A. Gray,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Frangula purshiana (DC.) A. Gray,Frangula purshiana,Frangula,(DC.) A. Gray,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Franklinia alatamaha W. Bartram ex Marshall,Franklinia alatamaha,Franklinia,W. Bartram ex Marshall,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Fraxinus americana L.,Fraxinus americana,Fraxinus,L.,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Fraxinus anomala Torr. ex S. Watson,Fraxinus anomala,Fraxinus,Torr. ex S. Watson,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Fraxinus caroliniana Mill.,Fraxinus caroliniana,Fraxinus,Mill.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Fraxinus latifolia Benth.,Fraxinus latifolia,Fraxinus,Benth.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Fraxinus nigra Marshall,Fraxinus nigra,Fraxinus,Marshall,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Fraxinus pennsylvanica Marshall,Fraxinus pennsylvanica,Fraxinus,Marshall,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE
+Fraxinus profunda (Bush) Bush,Fraxinus profunda,Fraxinus,(Bush) Bush,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Fraxinus velutina Torr.,Fraxinus velutina,Fraxinus,Torr.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Fremontodendron californicum (Torr.) Coville,Fremontodendron californicum,Fremontodendron,(Torr.) Coville,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Garrya wrightii Torr.,Garrya wrightii,Garrya,Torr.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Gaultheria hispidula (L.) Muhl. ex Bigelow,Gaultheria hispidula,Gaultheria,(L.) Muhl. ex Bigelow,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+Gaultheria procumbens L.,Gaultheria procumbens,Gaultheria,L.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Gaultheria shallon Pursh,Gaultheria shallon,Gaultheria,Pursh,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Gaylussacia baccata (Wangenh.) K. Koch,Gaylussacia baccata,Gaylussacia,(Wangenh.) K. Koch,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Gaylussacia dumosa (Andrews) Torr. & A. Gray,Gaylussacia dumosa,Gaylussacia,(Andrews) Torr. & A. Gray,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Gaylussacia frondosa (L.) Torr. & A. Gray ex Torr.,Gaylussacia frondosa,Gaylussacia,(L.) Torr. & A. Gray ex Torr.,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Gleditsia aquatica Marshall,Gleditsia aquatica,Gleditsia,Marshall,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Gleditsia triacanthos L.,Gleditsia triacanthos,Gleditsia,L.,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Gordonia lasianthus (L.) Ellis,Gordonia lasianthus,Gordonia,(L.) Ellis,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Grayia spinosa (Hook.) Moq.,Grayia spinosa,Grayia,(Hook.) Moq.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Guaiacum officinale L.,Guaiacum officinale,Guaiacum,L.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Guaiacum sanctum L.,Guaiacum sanctum,Guaiacum,L.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Gutierrezia sarothrae (Pursh) Britton & Rusby,Gutierrezia sarothrae,Gutierrezia,(Pursh) Britton & Rusby,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+Gymnocladus dioicus (L.) K. Koch,Gymnocladus dioicus,Gymnocladus,(L.) K. Koch,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Halesia carolina L.,Halesia carolina,Halesia,L.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Halesia diptera Ellis,Halesia diptera,Halesia,Ellis,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Hamamelis virginiana L.,Hamamelis virginiana,Hamamelis,L.,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Hesperocyparis arizonica (Greene) Bartel,Hesperocyparis arizonica,Hesperocyparis,(Greene) Bartel,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Hesperoyucca whipplei (Torr.) Baker,Hesperoyucca whipplei,Hesperoyucca,(Torr.) Baker,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Holodiscus discolor (Pursh) Maxim.,Holodiscus discolor,Holodiscus,(Pursh) Maxim.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Holodiscus dumosus (Nutt. ex Hook.) A. Heller,Holodiscus dumosus,Holodiscus,(Nutt. ex Hook.) A. Heller,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Hudsonia tomentosa Nutt.,Hudsonia tomentosa,Hudsonia,Nutt.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+Hura crepitans L.,Hura crepitans,Hura,L.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Hydrangea quercifolia W. Bartram,Hydrangea quercifolia,Hydrangea,W. Bartram,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Hymenoclea monogyra Torr. & A. Gray,Hymenoclea monogyra,Hymenoclea,Torr. & A. Gray,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Hypericum cistifolium Lam.,Hypericum cistifolium,Hypericum,Lam.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Hypericum crux-andreae (L.) Crantz,Hypericum crux-andreae,Hypericum,(L.) Crantz,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Hypericum densiflorum Pursh,Hypericum densiflorum,Hypericum,Pursh,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Hypericum fasciculatum Lam.,Hypericum fasciculatum,Hypericum,Lam.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Hypericum prolificum L.,Hypericum prolificum,Hypericum,L.,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Ilex amelanchier M.A. Curtis ex Chapm.,Ilex amelanchier,Ilex,M.A. Curtis ex Chapm.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Ilex cassine L.,Ilex cassine,Ilex,L.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Ilex coriacea (Pursh) Chapm.,Ilex coriacea,Ilex,(Pursh) Chapm.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Ilex decidua Walter,Ilex decidua,Ilex,Walter,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Ilex glabra (L.) A. Gray,Ilex glabra,Ilex,(L.) A. Gray,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Ilex opaca Aiton,Ilex opaca,Ilex,Aiton,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Ilex verticillata (L.) A. Gray,Ilex verticillata,Ilex,(L.) A. Gray,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Ilex vomitoria Aiton,Ilex vomitoria,Ilex,Aiton,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Itea virginica L.,Itea virginica,Itea,L.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Jamesia americana Torr. & A. Gray,Jamesia americana,Jamesia,Torr. & A. Gray,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Juglans cinerea L.,Juglans cinerea,Juglans,L.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Juglans major (Torr.) A. Heller,Juglans major,Juglans,(Torr.) A. Heller,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Juglans microcarpa Berl.,Juglans microcarpa,Juglans,Berl.,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Juglans nigra L.,Juglans nigra,Juglans,L.,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Juniperus communis L.,Juniperus communis,Juniperus,L.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Juniperus monosperma (Engelm.) Sarg.,Juniperus monosperma,Juniperus,(Engelm.) Sarg.,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Juniperus occidentalis Hook.,Juniperus occidentalis,Juniperus,Hook.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Juniperus osteosperma (Torr.) Little,Juniperus osteosperma,Juniperus,(Torr.) Little,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Juniperus scopulorum Sarg.,Juniperus scopulorum,Juniperus,Sarg.,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+Juniperus virginiana L.,Juniperus virginiana,Juniperus,L.,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Juniperus virginiana L. var. silicicola (Small) Silba,Juniperus virginiana,Juniperus,L. var. silicicola (Small) Silba,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Kalmia latifolia L.,Kalmia latifolia,Kalmia,L.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Kalmia microphylla (Hook.) A. Heller,Kalmia microphylla,Kalmia,(Hook.) A. Heller,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Kalmia polifolia Wangenh.,Kalmia polifolia,Kalmia,Wangenh.,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+Krameria erecta Willd. ex Schult.,Krameria erecta,Krameria,Willd. ex Schult.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Krascheninnikovia lanata (Pursh) A. Meeuse & Smit,Krascheninnikovia lanata,Krascheninnikovia,(Pursh) A. Meeuse & Smit,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE
+Laguncularia racemosa (L.) C.F. Gaertn.,Laguncularia racemosa,Laguncularia,(L.) C.F. Gaertn.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Larix kaempferi (Lam.) Carrière,Larix kaempferi,Larix,(Lam.) Carrière,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Larix laricina (Du Roi) K. Koch,Larix laricina,Larix,(Du Roi) K. Koch,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+Larix lyallii Parl.,Larix lyallii,Larix,Parl.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+Larix occidentalis Nutt.,Larix occidentalis,Larix,Nutt.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+Larrea tridentata (DC.) Coville var. arenaria L.D. Benson,Larrea tridentata,Larrea,(DC.) Coville var. arenaria L.D. Benson,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Lavatera assurgentiflora Kellogg,Lavatera assurgentiflora,Lavatera,Kellogg,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Ledum glandulosum Nutt.,Ledum glandulosum,Ledum,Nutt.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Ledum groenlandicum Oeder,Ledum groenlandicum,Ledum,Oeder,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+Ledum palustre L.,Ledum palustre,Ledum,L.,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+Leucaena retusa Benth.,Leucaena retusa,Leucaena,Benth.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Leucothoe axillaris (Lam.) D. Don,Leucothoe axillaris,Leucothoe,(Lam.) D. Don,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Leucothoe fontanesiana (Steud.) Sleumer,Leucothoe fontanesiana,Leucothoe,(Steud.) Sleumer,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Leucothoe racemosa (L.) A. Gray,Leucothoe racemosa,Leucothoe,(L.) A. Gray,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Lindera benzoin (L.) Blume,Lindera benzoin,Lindera,(L.) Blume,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Liquidambar styraciflua L.,Liquidambar styraciflua,Liquidambar,L.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Liriodendron tulipifera L.,Liriodendron tulipifera,Liriodendron,L.,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Lithocarpus densiflorus (Hook. & Arn.) Rehder,Lithocarpus densiflorus,Lithocarpus,(Hook. & Arn.) Rehder,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Lonicera involucrata (Richardson) Banks ex Spreng.,Lonicera involucrata,Lonicera,(Richardson) Banks ex Spreng.,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Lonicera utahensis S. Watson,Lonicera utahensis,Lonicera,S. Watson,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Lupinus arboreus Sims,Lupinus arboreus,Lupinus,Sims,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Lycium carolinianum Walter,Lycium carolinianum,Lycium,Walter,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Lycium pallidum Miers,Lycium pallidum,Lycium,Miers,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Lyonia ligustrina (L.) DC.,Lyonia ligustrina,Lyonia,(L.) DC.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Lyonia lucida (Lam.) K. Koch,Lyonia lucida,Lyonia,(Lam.) K. Koch,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Maclura pomifera (Raf.) C.K. Schneid.,Maclura pomifera,Maclura,(Raf.) C.K. Schneid.,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+Magnolia acuminata (L.) L.,Magnolia acuminata,Magnolia,(L.) L.,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Magnolia fraseri Walter,Magnolia fraseri,Magnolia,Walter,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Magnolia grandiflora L.,Magnolia grandiflora,Magnolia,L.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Magnolia tripetala (L.) L.,Magnolia tripetala,Magnolia,(L.) L.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Magnolia virginiana L.,Magnolia virginiana,Magnolia,L.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Mahonia aquifolium (Pursh) Nutt.,Mahonia aquifolium,Mahonia,(Pursh) Nutt.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+Mahonia nervosa (Pursh) Nutt.,Mahonia nervosa,Mahonia,(Pursh) Nutt.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+Mahonia repens (Lindl.) G. Don,Mahonia repens,Mahonia,(Lindl.) G. Don,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+Malus fusca (Raf.) C.K. Schneid.,Malus fusca,Malus,(Raf.) C.K. Schneid.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Malus ioensis (Alph. Wood) Britton,Malus ioensis,Malus,(Alph. Wood) Britton,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Malus Mill.,NA,NA,NA,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+Morella californica (Cham.) Wilbur,Morella californica,Morella,(Cham.) Wilbur,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Morella caroliniensis (Mill.) Small,Morella caroliniensis,Morella,(Mill.) Small,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Morella cerifera (L.) Small,Morella cerifera,Morella,(L.) Small,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Morella inodora (W. Bartram) Small,Morella inodora,Morella,(W. Bartram) Small,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Morella pensylvanica (Mirb.) Kartesz,Morella pensylvanica,Morella,(Mirb.) Kartesz,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Morus rubra L.,Morus rubra,Morus,L.,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Myrica gale L.,Myrica gale,Myrica,L.,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
+Nectandra coriacea (Sw.) Griseb.,Nectandra coriacea,Nectandra,(Sw.) Griseb.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Nekemias arborea (L.) J. Wen & Boggan,Nekemias arborea,Nekemias,(L.) J. Wen & Boggan,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Nolina microcarpa S. Watson,Nolina microcarpa,Nolina,S. Watson,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+"Notholithocarpus densiflorus (Hook. & Arn.) P.S. Manos, C.H. Cannon, & S.H. Oh",Notholithocarpus densiflorus,Notholithocarpus,"(Hook. & Arn.) P.S. Manos, C.H. Cannon, & S.H. Oh",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Nyssa aquatica L.,Nyssa aquatica,Nyssa,L.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Nyssa biflora Walter,Nyssa biflora,Nyssa,Walter,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Nyssa ogeche W. Bartram ex Marshall,Nyssa ogeche,Nyssa,W. Bartram ex Marshall,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Nyssa sylvatica Marshall,Nyssa sylvatica,Nyssa,Marshall,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Oemleria cerasiformis (Torr. & A. Gray ex Hook. & Arn.) Landon,Oemleria cerasiformis,Oemleria,(Torr. & A. Gray ex Hook. & Arn.) Landon,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Olneya tesota A. Gray,Olneya tesota,Olneya,A. Gray,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Opuntia dillenii (Ker Gawl.) Haw.,Opuntia dillenii,Opuntia,(Ker Gawl.) Haw.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Opuntia polyacantha Haw.,Opuntia polyacantha,Opuntia,Haw.,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+Opuntia stricta (Haw.) Haw. var. dillenii (Ker Gawl.) L.D. Benson,Opuntia stricta,Opuntia,(Haw.) Haw. var. dillenii (Ker Gawl.) L.D. Benson,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Ostrya virginiana (Mill.) K. Koch,Ostrya virginiana,Ostrya,(Mill.) K. Koch,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Oxydendrum arboreum (L.) DC.,Oxydendrum arboreum,Oxydendrum,(L.) DC.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Penstemon venustus Douglas ex Lindl.,Penstemon venustus,Penstemon,Douglas ex Lindl.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Persea borbonia (L.) Spreng.,Persea borbonia,Persea,(L.) Spreng.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Persea palustris (Raf.) Sarg.,Persea palustris,Persea,(Raf.) Sarg.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Petitia domingensis Jacq.,Petitia domingensis,Petitia,Jacq.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Philadelphus lewisii Pursh,Philadelphus lewisii,Philadelphus,Pursh,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Philadelphus microphyllus A. Gray,Philadelphus microphyllus,Philadelphus,A. Gray,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Photinia melanocarpa (Michx.) K.R. Robertson & Phipps,Photinia melanocarpa,Photinia,(Michx.) K.R. Robertson & Phipps,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Photinia pyrifolia (Lam.) K.R. Robertson & Phipps,Photinia pyrifolia,Photinia,(Lam.) K.R. Robertson & Phipps,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Phyllodoce breweri (A. Gray) A. Heller,Phyllodoce breweri,Phyllodoce,(A. Gray) A. Heller,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Physocarpus capitatus (Pursh) Kuntze,Physocarpus capitatus,Physocarpus,(Pursh) Kuntze,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Physocarpus malvaceus (Greene) Kuntze,Physocarpus malvaceus,Physocarpus,(Greene) Kuntze,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+"Physocarpus opulifolius (L.) Maxim., orth. cons.",Physocarpus opulifolius,Physocarpus,"(L.) Maxim., orth. cons.",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Picea breweriana S. Watson,Picea breweriana,Picea,S. Watson,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Picea engelmannii Parry ex Engelm.,Picea engelmannii,Picea,Parry ex Engelm.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Picea glauca (Moench) Voss,Picea glauca,Picea,(Moench) Voss,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+"Picea mariana (Mill.) Britton, Sterns & Poggenb.",Picea mariana,Picea,"(Mill.) Britton, Sterns & Poggenb.",TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+Picea pungens Engelm.,Picea pungens,Picea,Engelm.,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+Picea rubens Sarg.,Picea rubens,Picea,Sarg.,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Picea sitchensis (Bong.) Carrière,Picea sitchensis,Picea,(Bong.) Carrière,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Picrothamnus desertorum Nutt.,Picrothamnus desertorum,Picrothamnus,Nutt.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Pinus albicaulis Engelm.,Pinus albicaulis,Pinus,Engelm.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Pinus aristata Engelm.,Pinus aristata,Pinus,Engelm.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Pinus banksiana Lamb.,Pinus banksiana,Pinus,Lamb.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+Pinus cembroides Zucc.,Pinus cembroides,Pinus,Zucc.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Pinus clausa (Chapm. ex Engelm.) Vasey ex Sarg.,Pinus clausa,Pinus,(Chapm. ex Engelm.) Vasey ex Sarg.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Pinus contorta Douglas ex Loudon,Pinus contorta,Pinus,Douglas ex Loudon,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Pinus contorta Douglas ex Loudon var. contorta,Pinus contorta,Pinus,Douglas ex Loudon var. contorta,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Pinus coulteri D. Don,Pinus coulteri,Pinus,D. Don,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Pinus echinata Mill.,Pinus echinata,Pinus,Mill.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Pinus edulis Engelm.,Pinus edulis,Pinus,Engelm.,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Pinus elliottii Engelm.,Pinus elliottii,Pinus,Engelm.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Pinus flexilis James,Pinus flexilis,Pinus,James,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Pinus glabra Walter,Pinus glabra,Pinus,Walter,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Pinus jeffreyi Balf.,Pinus jeffreyi,Pinus,Balf.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Pinus lambertiana Douglas,Pinus lambertiana,Pinus,Douglas,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Pinus monophylla Torr. & Frém.,Pinus monophylla,Pinus,Torr. & Frém.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Pinus monticola Douglas ex D. Don,Pinus monticola,Pinus,Douglas ex D. Don,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Pinus muricata D. Don,Pinus muricata,Pinus,D. Don,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Pinus palustris Mill.,Pinus palustris,Pinus,Mill.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Pinus ponderosa Lawson & C. Lawson,Pinus ponderosa,Pinus,Lawson & C. Lawson,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+Pinus pungens Lamb.,Pinus pungens,Pinus,Lamb.,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Pinus radiata D. Don,Pinus radiata,Pinus,D. Don,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Pinus resinosa Aiton,Pinus resinosa,Pinus,Aiton,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Pinus rigida Mill.,Pinus rigida,Pinus,Mill.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Pinus sabiniana Douglas ex Douglas,Pinus sabiniana,Pinus,Douglas ex Douglas,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Pinus serotina Michx.,Pinus serotina,Pinus,Michx.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Pinus strobus L.,Pinus strobus,Pinus,L.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Pinus taeda L.,Pinus taeda,Pinus,L.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Pinus virginiana Mill.,Pinus virginiana,Pinus,Mill.,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Planera aquatica J.F. Gmel.,Planera aquatica,Planera,J.F. Gmel.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Platanus occidentalis L.,Platanus occidentalis,Platanus,L.,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Platanus racemosa Nutt.,Platanus racemosa,Platanus,Nutt.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Platanus wrightii S. Watson,Platanus wrightii,Platanus,S. Watson,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Populus ×canadensis Moench (pro sp.) [deltoides × nigra],Populus ×canadensis,Populus,Moench (pro sp.) [deltoides × nigra],TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Populus angustifolia James,Populus angustifolia,Populus,James,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+Populus balsamifera L.,Populus balsamifera,Populus,L.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Populus balsamifera L. ssp. trichocarpa (Torr. & A. Gray ex Hook.) Brayshaw,Populus balsamifera,Populus,L. ssp. trichocarpa (Torr. & A. Gray ex Hook.) Brayshaw,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Populus deltoides W. Bartram ex Marshall,Populus deltoides,Populus,W. Bartram ex Marshall,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE
+Populus deltoides W. Bartram ex Marshall ssp. monilifera (Aiton) Eckenwalder,Populus deltoides,Populus,W. Bartram ex Marshall ssp. monilifera (Aiton) Eckenwalder,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE
+Populus fremontii S. Watson,Populus fremontii,Populus,S. Watson,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Populus grandidentata Michx.,Populus grandidentata,Populus,Michx.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Populus heterophylla L.,Populus heterophylla,Populus,L.,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Populus tremuloides Michx.,Populus tremuloides,Populus,Michx.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Prosopis glandulosa Torr. var. glandulosa,Prosopis glandulosa,Prosopis,Torr. var. glandulosa,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Prosopis pubescens Benth.,Prosopis pubescens,Prosopis,Benth.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Prunus americana Marshall,Prunus americana,Prunus,Marshall,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+Prunus angustifolia Marshall,Prunus angustifolia,Prunus,Marshall,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Prunus emarginata (Douglas ex Hook.) D. Dietr.,Prunus emarginata,Prunus,(Douglas ex Hook.) D. Dietr.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Prunus fasciculata (Torr.) A. Gray,Prunus fasciculata,Prunus,(Torr.) A. Gray,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Prunus ilicifolia (Nutt. ex Hook. & Arn.) D. Dietr. ssp. lyonii (Eastw.) P.H. Raven,Prunus ilicifolia,Prunus,(Nutt. ex Hook. & Arn.) D. Dietr. ssp. lyonii (Eastw.) P.H. Raven,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Prunus maritima Marshall,Prunus maritima,Prunus,Marshall,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Prunus nigra Aiton,Prunus nigra,Prunus,Aiton,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Prunus pensylvanica L. f.,Prunus pensylvanica,Prunus,L. f.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+Prunus pumila L.,Prunus pumila,Prunus,L.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Prunus pumila L. var. besseyi (L.H. Bailey) Gleason,Prunus pumila,Prunus,L. var. besseyi (L.H. Bailey) Gleason,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+Prunus serotina Ehrh.,Prunus serotina,Prunus,Ehrh.,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+Prunus serotina Ehrh. var. rufula (Wooton & Standl.) McVaugh,Prunus serotina,Prunus,Ehrh. var. rufula (Wooton & Standl.) McVaugh,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Prunus subcordata Benth.,Prunus subcordata,Prunus,Benth.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Prunus virginiana L.,Prunus virginiana,Prunus,L.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Prunus virginiana L. var. demissa (Nutt.) Torr.,Prunus virginiana,Prunus,L. var. demissa (Nutt.) Torr.,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+Pseudotsuga macrocarpa (Vasey) Mayr,Pseudotsuga macrocarpa,Pseudotsuga,(Vasey) Mayr,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Pseudotsuga menziesii (Mirb.) Franco,Pseudotsuga menziesii,Pseudotsuga,(Mirb.) Franco,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+Pseudotsuga menziesii (Mirb.) Franco var. glauca (Beissn.) Franco,Pseudotsuga menziesii,Pseudotsuga,(Mirb.) Franco var. glauca (Beissn.) Franco,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+Ptelea trifoliata L.,Ptelea trifoliata,Ptelea,L.,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Purshia glandulosa Curran,Purshia glandulosa,Purshia,Curran,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Purshia stansburiana (Torr.) Henrickson,Purshia stansburiana,Purshia,(Torr.) Henrickson,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Purshia tridentata (Pursh) DC.,Purshia tridentata,Purshia,(Pursh) DC.,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Pyracantha coccinea M. Roem.,Pyracantha coccinea,Pyracantha,M. Roem.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+Quercus agrifolia Née,Quercus agrifolia,Quercus,Née,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Quercus alba L.,Quercus alba,Quercus,L.,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Quercus bicolor Willd.,Quercus bicolor,Quercus,Willd.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Quercus chrysolepis Liebm.,Quercus chrysolepis,Quercus,Liebm.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Quercus coccinea Münchh.,Quercus coccinea,Quercus,Münchh.,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Quercus douglasii Hook. & Arn.,Quercus douglasii,Quercus,Hook. & Arn.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Quercus dumosa Nutt.,Quercus dumosa,Quercus,Nutt.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Quercus falcata Michx.,Quercus falcata,Quercus,Michx.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Quercus gambelii Nutt.,Quercus gambelii,Quercus,Nutt.,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Quercus garryana Douglas ex Hook.,Quercus garryana,Quercus,Douglas ex Hook.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Quercus imbricaria Michx.,Quercus imbricaria,Quercus,Michx.,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Quercus kelloggii Newberry,Quercus kelloggii,Quercus,Newberry,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Quercus laevis Walter,Quercus laevis,Quercus,Walter,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Quercus laurifolia Michx.,Quercus laurifolia,Quercus,Michx.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Quercus lobata Née,Quercus lobata,Quercus,Née,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Quercus lyrata Walter,Quercus lyrata,Quercus,Walter,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Quercus macrocarpa Michx.,Quercus macrocarpa,Quercus,Michx.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE
+Quercus marilandica Münchh.,Quercus marilandica,Quercus,Münchh.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Quercus michauxii Nutt.,Quercus michauxii,Quercus,Nutt.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Quercus montana Willd.,Quercus montana,Quercus,Willd.,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Quercus muehlenbergii Engelm.,Quercus muehlenbergii,Quercus,Engelm.,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Quercus nigra L.,Quercus nigra,Quercus,L.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Quercus pagoda Raf.,Quercus pagoda,Quercus,Raf.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Quercus palustris Münchh.,Quercus palustris,Quercus,Münchh.,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Quercus phellos L.,Quercus phellos,Quercus,L.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+"Quercus prinus L. p.p., nom. utique rej.",Quercus prinus,Quercus,"L. p.p., nom. utique rej.",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Quercus pumila Walter,Quercus pumila,Quercus,Walter,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Quercus rubra L.,Quercus rubra,Quercus,L.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Quercus shumardii Buckley,Quercus shumardii,Quercus,Buckley,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Quercus stellata Wangenh.,Quercus stellata,Quercus,Wangenh.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Quercus texana Buckley,Quercus texana,Quercus,Buckley,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Quercus vacciniifolia Kellogg,Quercus vacciniifolia,Quercus,Kellogg,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Quercus velutina Lam.,Quercus velutina,Quercus,Lam.,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Quercus virginiana Mill.,Quercus virginiana,Quercus,Mill.,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Rhamnus alnifolia L'Hér.,Rhamnus alnifolia,Rhamnus,L'Hér.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+Rhamnus crocea Nutt.,Rhamnus crocea,Rhamnus,Nutt.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Rhododendron albiflorum Hook.,Rhododendron albiflorum,Rhododendron,Hook.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+Rhododendron arborescens (Pursh) Torr.,Rhododendron arborescens,Rhododendron,(Pursh) Torr.,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Rhododendron atlanticum (Ashe) Rehder,Rhododendron atlanticum,Rhododendron,(Ashe) Rehder,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Rhododendron canadense (L.) Torr.,Rhododendron canadense,Rhododendron,(L.) Torr.,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Rhododendron canescens (Michx.) Sweet,Rhododendron canescens,Rhododendron,(Michx.) Sweet,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Rhododendron lapponicum (L.) Wahlenb.,Rhododendron lapponicum,Rhododendron,(L.) Wahlenb.,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+Rhododendron macrophyllum D. Don ex G. Don,Rhododendron macrophyllum,Rhododendron,D. Don ex G. Don,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Rhododendron maximum L.,Rhododendron maximum,Rhododendron,L.,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Rhododendron occidentale (Torr. & A. Gray) A. Gray,Rhododendron occidentale,Rhododendron,(Torr. & A. Gray) A. Gray,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Rhododendron periclymenoides (Michx.) Shinners,Rhododendron periclymenoides,Rhododendron,(Michx.) Shinners,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Rhododendron viscosum (L.) Torr.,Rhododendron viscosum,Rhododendron,(L.) Torr.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Rhus aromatica Aiton var. serotina (Greene) Rehder,Rhus aromatica,Rhus,Aiton var. serotina (Greene) Rehder,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Rhus copallinum L.,Rhus copallinum,Rhus,L.,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Rhus glabra L.,Rhus glabra,Rhus,L.,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+"Rhus hirta (L.) Sudw., nom. utique rej.",Rhus hirta,Rhus,"(L.) Sudw., nom. utique rej.",TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Rhus microphylla Engelm. ex A. Gray,Rhus microphylla,Rhus,Engelm. ex A. Gray,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Rhus ovata S. Watson,Rhus ovata,Rhus,S. Watson,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Rhus trilobata Nutt.,Rhus trilobata,Rhus,Nutt.,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+Rhus typhina L.,Rhus typhina,Rhus,L.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Ribes americanum Mill.,Ribes americanum,Ribes,Mill.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE
+Ribes aureum Pursh,Ribes aureum,Ribes,Pursh,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+Ribes aureum Pursh var. villosum DC.,Ribes aureum,Ribes,Pursh var. villosum DC.,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Ribes cereum Douglas,Ribes cereum,Ribes,Douglas,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Ribes erythrocarpum Coville & Leiberg,Ribes erythrocarpum,Ribes,Coville & Leiberg,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+Ribes hudsonianum Richardson,Ribes hudsonianum,Ribes,Richardson,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Ribes inerme Rydb.,Ribes inerme,Ribes,Rydb.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Ribes lacustre (Pers.) Poir.,Ribes lacustre,Ribes,(Pers.) Poir.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Ribes montigenum McClatchie,Ribes montigenum,Ribes,McClatchie,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Ribes nevadense Kellogg,Ribes nevadense,Ribes,Kellogg,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Ribes roezlii Regel,Ribes roezlii,Ribes,Regel,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Ribes sanguineum Pursh,Ribes sanguineum,Ribes,Pursh,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Ribes triste Pall.,Ribes triste,Ribes,Pall.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
+Ribes viburnifolium A. Gray,Ribes viburnifolium,Ribes,A. Gray,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Ribes viscosissimum Pursh,Ribes viscosissimum,Ribes,Pursh,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Robinia hispida L. var. fertilis (Ashe) R.T. Clausen,Robinia hispida,Robinia,L. var. fertilis (Ashe) R.T. Clausen,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Robinia neomexicana A. Gray,Robinia neomexicana,Robinia,A. Gray,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Robinia pseudoacacia L.,Robinia pseudoacacia,Robinia,L.,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+Sabal minor (Jacq.) Pers.,Sabal minor,Sabal,(Jacq.) Pers.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Sabal palmetto (Walter) Lodd. ex Schult. & Schult. f.,Sabal palmetto,Sabal,(Walter) Lodd. ex Schult. & Schult. f.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Salix alaxensis (Andersson) Coville,Salix alaxensis,Salix,(Andersson) Coville,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+Salix amygdaloides Andersson,Salix amygdaloides,Salix,Andersson,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+Salix arbusculoides Andersson,Salix arbusculoides,Salix,Andersson,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+Salix barclayi Andersson,Salix barclayi,Salix,Andersson,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+Salix bebbiana Sarg.,Salix bebbiana,Salix,Sarg.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+Salix bonplandiana Kunth,Salix bonplandiana,Salix,Kunth,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Salix boothii Dorn,Salix boothii,Salix,Dorn,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Salix brachycarpa Nutt.,Salix brachycarpa,Salix,Nutt.,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Salix candida Flueggé ex Willd.,Salix candida,Salix,Flueggé ex Willd.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+Salix caroliniana Michx.,Salix caroliniana,Salix,Michx.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Salix commutata Bebb,Salix commutata,Salix,Bebb,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+Salix discolor Muhl.,Salix discolor,Salix,Muhl.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+Salix drummondiana Barratt ex Hook.,Salix drummondiana,Salix,Barratt ex Hook.,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Salix eriocephala Michx.,Salix eriocephala,Salix,Michx.,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Salix exigua Nutt.,Salix exigua,Salix,Nutt.,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+Salix fuscescens Andersson,Salix fuscescens,Salix,Andersson,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Salix geyeriana Andersson,Salix geyeriana,Salix,Andersson,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Salix glauca L.,Salix glauca,Salix,L.,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Salix gooddingii C.R. Ball,Salix gooddingii,Salix,C.R. Ball,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Salix hastata L.,Salix hastata,Salix,L.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Salix hookeriana Barratt ex Hook.,Salix hookeriana,Salix,Barratt ex Hook.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Salix humilis Marshall,Salix humilis,Salix,Marshall,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Salix interior Rowlee,Salix interior,Salix,Rowlee,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+Salix irrorata Andersson,Salix irrorata,Salix,Andersson,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Salix lasiolepis Benth.,Salix lasiolepis,Salix,Benth.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+Salix lemmonii Bebb,Salix lemmonii,Salix,Bebb,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Salix ligulifolia (C.R. Ball) C.R. Ball ex C.K. Schneid.,Salix ligulifolia,Salix,(C.R. Ball) C.R. Ball ex C.K. Schneid.,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Salix lucida Muhl.,Salix lucida,Salix,Muhl.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Salix lucida Muhl. ssp. lasiandra (Benth.) A.E. Murray,Salix lucida,Salix,Muhl. ssp. lasiandra (Benth.) A.E. Murray,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Salix lutea Nutt.,Salix lutea,Salix,Nutt.,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Salix monticola Bebb,Salix monticola,Salix,Bebb,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Salix nigra Marshall,Salix nigra,Salix,Marshall,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Salix niphoclada Rydb.,Salix niphoclada,Salix,Rydb.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+Salix orestera C.K. Schneid.,Salix orestera,Salix,C.K. Schneid.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Salix planifolia Pursh,Salix planifolia,Salix,Pursh,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+Salix polaris Wahlenb.,Salix polaris,Salix,Wahlenb.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+Salix prolixa Andersson,Salix prolixa,Salix,Andersson,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Salix pulchra Cham.,Salix pulchra,Salix,Cham.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+Salix reticulata L.,Salix reticulata,Salix,L.,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+Salix richardsonii Hook.,Salix richardsonii,Salix,Hook.,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+Salix rotundifolia Trautv.,Salix rotundifolia,Salix,Trautv.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Salix scouleriana Barratt ex Hook.,Salix scouleriana,Salix,Barratt ex Hook.,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Salix sericea Marshall,Salix sericea,Salix,Marshall,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Salix sessilifolia Nutt.,Salix sessilifolia,Salix,Nutt.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Salix sitchensis Sanson ex Bong.,Salix sitchensis,Salix,Sanson ex Bong.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Salix taxifolia Kunth,Salix taxifolia,Salix,Kunth,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Salvia dorrii (Kellogg) Abrams,Salvia dorrii,Salvia,(Kellogg) Abrams,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Sambucus nigra L. ssp. canadensis (L.) R. Bolli,Sambucus nigra,Sambucus,L. ssp. canadensis (L.) R. Bolli,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Sambucus nigra L. ssp. cerulea (Raf.) R. Bolli,Sambucus nigra,Sambucus,L. ssp. cerulea (Raf.) R. Bolli,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+Sambucus racemosa L. var. racemosa,Sambucus racemosa,Sambucus,L. var. racemosa,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Sapindus saponaria L. var. drummondii (Hook. & Arn.) L.D. Benson,Sapindus saponaria,Sapindus,L. var. drummondii (Hook. & Arn.) L.D. Benson,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Sarcobatus vermiculatus (Hook.) Torr.,Sarcobatus vermiculatus,Sarcobatus,(Hook.) Torr.,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+Sassafras albidum (Nutt.) Nees,Sassafras albidum,Sassafras,(Nutt.) Nees,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Scaevola sericea Vahl,Scaevola sericea,Scaevola,Vahl,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sebastiania fruticosa (W. Bartram) Fernald,Sebastiania fruticosa,Sebastiania,(W. Bartram) Fernald,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Senegalia greggii (A. Gray) Britton & Rose,Senegalia greggii,Senegalia,(A. Gray) Britton & Rose,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Sequoia sempervirens (Lamb. ex D. Don) Endl.,Sequoia sempervirens,Sequoia,(Lamb. ex D. Don) Endl.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Sequoiadendron giganteum (Lindl.) J. Buchholz,Sequoiadendron giganteum,Sequoiadendron,(Lindl.) J. Buchholz,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Serenoa repens (W. Bartram) Small,Serenoa repens,Serenoa,(W. Bartram) Small,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Shepherdia argentea (Pursh) Nutt.,Shepherdia argentea,Shepherdia,(Pursh) Nutt.,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE
+Shepherdia canadensis (L.) Nutt.,Shepherdia canadensis,Shepherdia,(L.) Nutt.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+Sideroxylon lycioides L.,Sideroxylon lycioides,Sideroxylon,L.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Sideroxylon reclinatum Michx. ssp. reclinatum,Sideroxylon reclinatum,Sideroxylon,Michx. ssp. reclinatum,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Simmondsia chinensis (Link) C.K. Schneid.,Simmondsia chinensis,Simmondsia,(Link) C.K. Schneid.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Smilax bona-nox L.,Smilax bona-nox,Smilax,L.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Smilax glauca Walter,Smilax glauca,Smilax,Walter,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Smilax laurifolia L.,Smilax laurifolia,Smilax,L.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Smilax rotundifolia L.,Smilax rotundifolia,Smilax,L.,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Smilax smallii Morong,Smilax smallii,Smilax,Morong,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Smilax walteri Pursh,Smilax walteri,Smilax,Pursh,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Sophora secundiflora (Ortega) Lag. ex DC.,Sophora secundiflora,Sophora,(Ortega) Lag. ex DC.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Sorbus americana Marshall,Sorbus americana,Sorbus,Marshall,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Sorbus decora (Sarg.) C.K. Schneid.,Sorbus decora,Sorbus,(Sarg.) C.K. Schneid.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sorbus scopulina Greene,Sorbus scopulina,Sorbus,Greene,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Sorbus sitchensis M. Roem. var. grayi (Wenzig) C.L. Hitchc.,Sorbus sitchensis,Sorbus,M. Roem. var. grayi (Wenzig) C.L. Hitchc.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Spiraea alba Du Roi,Spiraea alba,Spiraea,Du Roi,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+Spiraea betulifolia Pall.,Spiraea betulifolia,Spiraea,Pall.,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+Spiraea douglasii Hook.,Spiraea douglasii,Spiraea,Hook.,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE
+Spiraea tomentosa L.,Spiraea tomentosa,Spiraea,L.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Styrax americanus Lam.,Styrax americanus,Styrax,Lam.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Styrax grandifolius Aiton,Styrax grandifolius,Styrax,Aiton,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Swietenia mahagoni (L.) Jacq.,Swietenia mahagoni,Swietenia,(L.) Jacq.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Symphoricarpos albus (L.) S.F. Blake,Symphoricarpos albus,Symphoricarpos,(L.) S.F. Blake,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Symphoricarpos occidentalis Hook.,Symphoricarpos occidentalis,Symphoricarpos,Hook.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Symphoricarpos orbiculatus Moench,Symphoricarpos orbiculatus,Symphoricarpos,Moench,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Symphoricarpos oreophilus A. Gray,Symphoricarpos oreophilus,Symphoricarpos,A. Gray,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+Symplocos tinctoria (L.) L'Hér.,Symplocos tinctoria,Symplocos,(L.) L'Hér.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Tabebuia heterophylla (DC.) Britton,Tabebuia heterophylla,Tabebuia,(DC.) Britton,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Taxodium ascendens Brongn.,Taxodium ascendens,Taxodium,Brongn.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Taxodium distichum (L.) Rich.,Taxodium distichum,Taxodium,(L.) Rich.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Taxus brevifolia Nutt.,Taxus brevifolia,Taxus,Nutt.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Taxus canadensis Marshall,Taxus canadensis,Taxus,Marshall,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Tecoma stans (L.) Juss. ex Kunth,Tecoma stans,Tecoma,(L.) Juss. ex Kunth,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Tetradymia canescens DC.,Tetradymia canescens,Tetradymia,DC.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Tetradymia glabrata Torr. & A. Gray,Tetradymia glabrata,Tetradymia,Torr. & A. Gray,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Tetradymia spinosa Hook. & Arn.,Tetradymia spinosa,Tetradymia,Hook. & Arn.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Thuja occidentalis L.,Thuja occidentalis,Thuja,L.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Thuja plicata Donn ex D. Don,Thuja plicata,Thuja,Donn ex D. Don,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Tilia americana L.,Tilia americana,Tilia,L.,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Tilia americana L. var. heterophylla (Vent.) Loudon,Tilia americana,Tilia,L. var. heterophylla (Vent.) Loudon,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Torreya taxifolia Arn.,Torreya taxifolia,Torreya,Arn.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Trema micrantha (L.) Blume,Trema micrantha,Trema,(L.) Blume,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Tsuga canadensis (L.) Carrière,Tsuga canadensis,Tsuga,(L.) Carrière,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Tsuga caroliniana Engelm.,Tsuga caroliniana,Tsuga,Engelm.,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Tsuga heterophylla (Raf.) Sarg.,Tsuga heterophylla,Tsuga,(Raf.) Sarg.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Tsuga mertensiana (Bong.) Carrière,Tsuga mertensiana,Tsuga,(Bong.) Carrière,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Ulmus alata Michx.,Ulmus alata,Ulmus,Michx.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Ulmus americana L.,Ulmus americana,Ulmus,L.,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Ulmus crassifolia Nutt.,Ulmus crassifolia,Ulmus,Nutt.,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Ulmus rubra Muhl.,Ulmus rubra,Ulmus,Muhl.,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Ulmus serotina Sarg.,Ulmus serotina,Ulmus,Sarg.,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Ulmus thomasii Sarg.,Ulmus thomasii,Ulmus,Sarg.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Umbellularia californica (Hook. & Arn.) Nutt.,Umbellularia californica,Umbellularia,(Hook. & Arn.) Nutt.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Vaccinium angustifolium Aiton,Vaccinium angustifolium,Vaccinium,Aiton,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Vaccinium arboreum Marshall,Vaccinium arboreum,Vaccinium,Marshall,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+"Vaccinium caespitosum Michx., orth. var.",Vaccinium caespitosum,Vaccinium,"Michx., orth. var.",TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+Vaccinium cespitosum Michx.,Vaccinium cespitosum,Vaccinium,Michx.,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+Vaccinium corymbosum L.,Vaccinium corymbosum,Vaccinium,L.,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE
+Vaccinium elliottii Chapm.,Vaccinium elliottii,Vaccinium,Chapm.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Vaccinium membranaceum Douglas ex Torr.,Vaccinium membranaceum,Vaccinium,Douglas ex Torr.,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Vaccinium ovalifolium Sm.,Vaccinium ovalifolium,Vaccinium,Sm.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+Vaccinium ovatum Pursh,Vaccinium ovatum,Vaccinium,Pursh,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Vaccinium parvifolium Sm.,Vaccinium parvifolium,Vaccinium,Sm.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
+Vaccinium scoparium Leiberg ex Coville,Vaccinium scoparium,Vaccinium,Leiberg ex Coville,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Vaccinium stamineum L.,Vaccinium stamineum,Vaccinium,L.,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Vaccinium uliginosum L.,Vaccinium uliginosum,Vaccinium,L.,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+Vaccinium vitis-idaea L.,Vaccinium vitis-idaea,Vaccinium,L.,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+Vachellia constricta (Benth.) Seigler & Ebinger,Vachellia constricta,Vachellia,(Benth.) Seigler & Ebinger,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+Viburnum acerifolium L.,Viburnum acerifolium,Viburnum,L.,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Viburnum dentatum L. var. dentatum,Viburnum dentatum,Viburnum,L. var. dentatum,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Viburnum dentatum L. var. lucidum Aiton,Viburnum dentatum,Viburnum,L. var. lucidum Aiton,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Viburnum edule (Michx.) Raf.,Viburnum edule,Viburnum,(Michx.) Raf.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+Viburnum lantanoides Michx.,Viburnum lantanoides,Viburnum,Michx.,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Viburnum lentago L.,Viburnum lentago,Viburnum,L.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Viburnum nudum L. var. cassinoides (L.) Torr. & A. Gray,Viburnum nudum,Viburnum,L. var. cassinoides (L.) Torr. & A. Gray,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Viburnum obovatum Walter,Viburnum obovatum,Viburnum,Walter,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Viburnum opulus L.,Viburnum opulus,Viburnum,L.,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+Viburnum opulus L. var. americanum Aiton,Viburnum opulus,Viburnum,L. var. americanum Aiton,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE
+Viburnum prunifolium L.,Viburnum prunifolium,Viburnum,L.,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Viburnum rafinesqueanum Schult.,Viburnum rafinesqueanum,Viburnum,Schult.,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Viburnum recognitum Fernald,Viburnum recognitum,Viburnum,Fernald,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Yucca aloifolia L.,Yucca aloifolia,Yucca,L.,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Yucca baccata Torr.,Yucca baccata,Yucca,Torr.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Yucca brevifolia Engelm. var. brevifolia,Yucca brevifolia,Yucca,Engelm. var. brevifolia,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Yucca elata (Engelm.) Engelm.,Yucca elata,Yucca,(Engelm.) Engelm.,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+Yucca glauca Nutt.,Yucca glauca,Yucca,Nutt.,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Yucca whipplei Torr.,Yucca whipplei,Yucca,Torr.,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Zenobia pulverulenta (W. Bartram ex Willd.) Pollard,Zenobia pulverulenta,Zenobia,(W. Bartram ex Willd.) Pollard,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
