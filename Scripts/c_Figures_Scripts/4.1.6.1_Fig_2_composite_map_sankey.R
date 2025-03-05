@@ -103,6 +103,24 @@ path.sum <- read.csv("Pathogens/Output/path.sum.expanded.csv") %>%
   filter(Geographic.Origin.Cluster != Invaded.Range.Cluster) %>%
   filter(!(grepl('North\\.America', Geographic.Origin.Cluster) & grepl('North\\.America', Invaded.Range.Cluster)))
 
+####### !!!!!!!!! issues caught 2/12/25 !!!!!!!!!
+######
+#
+# NOTE above only filters out movement within N America and items with same origina and invaded range (which wouldn't be invasive)
+#
+# Duplicated origins are kept
+# Also some duplicate destinations
+# Duplicate of 'Melampsora laricis-populina' and 'Melampsora larici-populina'
+#
+# DO NOT use Expanded_data_EU_AU_NA_HI_noduplicateorigins_UpdatedFeb2025.csv or ...Sept2024_noduplicateorigins.csv
+# Divide by number of origins (eg, in N America) for duplicated origins (Still not implemented as of 2/12/25)
+#
+# Need to add DISTINCT to deal with duplicate destinations
+# 
+#
+#######
+#######
+
 #number_of_pathogens_origin
 
   #path.sum %>%

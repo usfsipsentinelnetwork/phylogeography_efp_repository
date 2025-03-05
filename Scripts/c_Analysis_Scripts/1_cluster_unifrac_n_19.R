@@ -47,7 +47,10 @@ names(obj) <-
     "Levant.Iberia.N.Africa",       #5
     "MegaCluster1",                      #6
     "Trop.Africa",                  #7
-    "Carribbean",                   #8
+    #"Carribbean",                   #8
+    
+    "Caribbean",                   #8
+    
     "W.North.America",                 #9
     "N.Europe",             #10
     "C.America",                    #11

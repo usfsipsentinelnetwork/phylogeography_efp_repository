@@ -17,15 +17,23 @@ library(grid)
 library(ggplotify)
 library(gt)
 
-load("Figures_Sept2024/Fig5_effects.RData")
-load("Figures_Sept2024/Fig_5B_semplot1.RData")
-load("Figures_Sept2024/Fig_5C_semplot2.RData")
+load("Figures_Sept2024/Fig5_effects_march4.2025.RData")
+load("Figures_Sept2024/Fig_semplots_march2025.RData")
+load("Final_output/PLS-models-3-11-25.RData")
+load("Final_output/linearmodels_march4.2025.RData")
+
+summary(model_final_zinf_centered)
+car::Anova(model_final_zinf_centered, type='III')
 
 #sjp1 / (plot(semp1) + plot(semp2))
 
 dats <- data.frame(
-  ziGLMM = c('0.46 ***', '0.10 ***', '0.07 .', '0.02 ns',  '0.02 **'),
-  PLSGLM = c('0.13 ***', '0.02 **',  '0.03 .', '0.18 ***', '0.00 *'),
+  ziGLMM = c('0.43 ***', '0.09 **', '0.09 ***', '0.01 ns',  '0.00 ns'), # march 4 2025
+  PLSGLM = c('0.12 ***', '0.02 *',  '0.05 **', '0.17 ***', '0.01 .'),  # march 4 2025
+#  ziGLMM = c('0.37 ***', '0.09 ***', '0.10 ***', '0.02 ns',  '0.00 ns'), # march 1 2025
+#  PLSGLM = c('0.13 ***', '0.03 **',  '0.01 ***', '0.23 **', '0.00 ns'),  # march 1 2025
+#  ziGLMM = c('0.46 ***', '0.10 ***', '0.07 .', '0.02 ns',  '0.02 **'),
+#  PLSGLM = c('0.13 ***', '0.02 **',  '0.03 .', '0.18 ***', '0.00 *'),
   row.names = c(
     "Cum. Imports (∜)",
     "Climatic Dist.",
@@ -135,23 +143,33 @@ print(
   
   vp = vp1)
 #title(main = "\nA", outer=T, adj=0)
-plot(semp1)
+plot(semp1); text(1.4,-.18,
+   paste(c('\u03c7\u00b2(mod)','p(\u03c7\u00b2mod)',
+           '\u03c7\u00b2(mod|base)','p(\u03c7\u00b2mod|base)',
+           'CFI','TLI','RMSEA','SRMR'),"=",
+         lavaan::fitMeasures(fit1)[c('chisq','pvalue',
+                             'baseline.chisq','baseline.pvalue',
+                             'cfi','tli','rmsea','srmr')]%>%round(2)%>%format(2),
+         collapse='\n') %>%
+     paste("R\u00b2(patho) = ", lavaan::summary(fit1,rsquare=T)$pe$est[22]%>%round(2)%>%format(2),'\n',.,sep=''),
+   cex=.8, adj=c(1,1), family='mono')
 title(main = "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n       C", outer=T, adj=0)
-plot(semp2)
+plot(semp2); text(1.4,-.18,
+   paste(c('\u03c7\u00b2(mod)','p(\u03c7\u00b2mod)',
+           '\u03c7\u00b2(mod|base)','p(\u03c7\u00b2mod|base)',
+           'CFI','TLI','RMSEA','SRMR'),"=",
+         lavaan::fitMeasures(fit1.1)[c('chisq','pvalue',
+                             'baseline.chisq','baseline.pvalue',
+                             'cfi','tli','rmsea','srmr')]%>%round(2)%>%format(2),
+         collapse='\n') %>%
+     paste("R\u00b2(patho) = ", lavaan::summary(fit1.1,rsquare=T)$pe$est[22]%>%round(2)%>%format(2),'\n',.,sep=''),
+   cex=.8, adj=c(1,1), family='mono')
 title(main = "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                                     D", outer=T, adj=0)
 ###############
 
-svg("Final_figures/Fig_5_ABC.svg", 8,8, family="Cambria Math");
-# old version
-#par(oma = c(0.5,0.5,0,0.5), xpd=T)
-#layout(matrix(c(1,1,2,3),byrow=T,nrow=2))
-#plot.new();vps <- baseViewports(); pushViewport(vps$figure); vp1 <- plotViewport(c(1,1,0,5))
-#print(sjp1+coord_flip(clip='off'),vp = vp1)
-#title(main = "\nA", outer=T, adj=0)
-#plot(semp1)
-#title(main = "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nB", outer=T, adj=0)
-#plot(semp2)
-#title(main = "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                                                                      C", outer=T, adj=0)
+library(systemfonts)
+svglite::svglite("Final_figures/Fig_5_ABC_march2025.svg", 8,8, system_fonts = list(sans = "Cambria Math",
+                                                                                   mono = "Consolas"))  
 par(oma = c(0.5,0.5,0,0.5), xpd=T)
 layout(matrix(c(1,1,2,3),byrow=T,nrow=2),
        heights = c(.6,.4))
@@ -163,41 +181,29 @@ print(
   
   vp = vp1)
 #title(main = "\nA", outer=T, adj=0)
-plot(semp1)
-title(main = "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        C", outer=T, adj=0)
-plot(semp2)
-title(main = "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                                                                   D", outer=T, adj=0)
+plot(semp1); text(1.4,-.18,
+   paste(c('\u03c7\u00b2(mod)','p(\u03c7\u00b2mod)',
+           '\u03c7\u00b2(mod|base)','p(\u03c7\u00b2mod|base)',
+           'CFI','TLI','RMSEA','SRMR'),"=",
+         lavaan::fitMeasures(fit1)[c('chisq','pvalue',
+                             'baseline.chisq','baseline.pvalue',
+                             'cfi','tli','rmsea','srmr')]%>%round(2)%>%format(2),
+         collapse='\n') %>%
+     paste("R\u00b2(patho) = ", lavaan::summary(fit1,rsquare=T)$pe$est[22]%>%round(2)%>%format(2),'\n',.,sep=''),
+   cex=.8, adj=c(1,1), family='mono')
+
+title(main = "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        C", outer=T, adj=0)
+plot(semp2); text(1.4,-.18,
+   paste(c('\u03c7\u00b2(mod)','p(\u03c7\u00b2mod)',
+           '\u03c7\u00b2(mod|base)','p(\u03c7\u00b2mod|base)',
+           'CFI','TLI','RMSEA','SRMR'),"=",
+         lavaan::fitMeasures(fit1.1)[c('chisq','pvalue',
+                             'baseline.chisq','baseline.pvalue',
+                             'cfi','tli','rmsea','srmr')]%>%round(2)%>%format(2),
+         collapse='\n') %>%
+     paste("R\u00b2(patho) = ", lavaan::summary(fit1.1,rsquare=T)$pe$est[22]%>%round(2)%>%format(2),'\n',.,sep=''),
+   cex=.8, adj=c(1,1), family='mono')
+title(main = "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                          D", outer=T, adj=0)
 
 dev.off()
-
-
-emf("Final_figures/Fig_5_ABC.emf", 8,8, family="Cambria Math", emfPlus=TRUE);
-#par(oma = c(0.5,0.5,0,0.5), xpd=T)
-#layout(matrix(c(1,1,2,3),byrow=T,nrow=2))
-#plot.new();vps <- baseViewports(); pushViewport(vps$figure); vp1 <- plotViewport(c(1,1,0,5))
-#print(sjp1+coord_flip(clip='off'),vp = vp1)
-#title(main = "\nA", outer=T, adj=0)
-#plot(semp1)
-#title(main = "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nB", outer=T, adj=0)
-#plot(semp2)
-#title(main = "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                                              C", outer=T, adj=0)
-par(oma = c(0.5,0.5,0,0.5), xpd=T)
-layout(matrix(c(1,1,2,3),byrow=T,nrow=2),
-       heights = c(.6,.4))
-plot.new();vps <- baseViewports(); pushViewport(vps$figure); vp1 <- plotViewport(c(1,1,0,5))
-print(
-  #sjp1+coord_flip(clip='off'),
-  
-  sjp1_table,
-  
-  vp = vp1)
-#title(main = "\nA", outer=T, adj=0)
-plot(semp1)
-title(main = "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        C", outer=T, adj=0)
-plot(semp2)
-title(main = "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                                                                   D", outer=T, adj=0)
-
-dev.off()
-
-
 

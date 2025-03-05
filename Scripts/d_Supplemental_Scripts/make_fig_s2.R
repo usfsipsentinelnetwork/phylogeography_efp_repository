@@ -16,6 +16,8 @@ layout1 <- c(
   area(t = 1, l = 1, b = 2, r = 1),
   area(t = 3, l = 1, b = 5, r =1))
 
+
+
 windows();gg.dendro.countries19 + WorldMap2 +  plot_layout(
   design = layout1,
   guides = 'collect') &

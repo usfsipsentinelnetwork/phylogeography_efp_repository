@@ -13,9 +13,9 @@ library(magrittr)
 library(scatterpie)
 library(cowplot)
 
-#load("Host_list/Output/ordinated_unifrac_data.Rdata")
+load("Host_list/Output/ordinated_unifrac_data.Rdata")
 
-load("Host_list/Output/unifrac_clusters_n_19.Rdata")
+#load("Host_list/Output/unifrac_clusters_n_19.Rdata")
 
 bioregions_vector %>% filter(grepl("Quebec", country_name))
 
@@ -24,6 +24,8 @@ bioregions_vector<-rbind(bioregions_vector, data.frame(country_name="Greenland",
 
 # dont run for n=19
 bioregions_vector<-rbind(bioregions_vector, data.frame(country_name="Iceland", biogeographic_region="Eurasian.Palearctic"))
+
+# but do run this
 bioregions_vector[which(bioregions_vector$country_name=="Quebec"),"country_name"] <-"Québec"
 bioregions_vector[which(bioregions_vector$country_name=="Newfoundland"),"country_name"] <-"NewfoundlandandLabrador"
 
@@ -53,7 +55,7 @@ c16 <- #pals::polychrome(29)
     #"#822E1C",
     "#BDCDFF","#FA0087","#2ED9FF","#E31A1C"#,  ## red
 
-    #uncomment the comma above and these for n = 19
+    #uncomment the comma **below??** and these for n = 19
       
     #"maroon", "orchid1", "steelblue4", "black"
   )
@@ -90,7 +92,7 @@ split$part <- NA
 split[c(1:2),]$part <- 'main'
 split[3,]$part <- 'part2'
 split[c(4:5),]$part <- 'part3'
-split[6:9,]$part<- 'Carribbean'
+split[6:9,]$part<- 'Caribbean'
 split[10,]$part<- 'French Guiana'
 
 #plot(split['part'])
@@ -107,7 +109,7 @@ plot(guy[1])
 FRA_main <- split %>% filter(part == "main") # Isolate polygon for mainland France
 plot(FRA_main[1])
 
-FRA_carib<- split %>% filter(part == "Carribbean")
+FRA_carib<- split %>% filter(part == "Caribbean")
 FRA_poly <- split %>% filter(part %in% c("part2", "part3")) # Isolate polygon for mainland France
 
 ## We can now replace all French polygons on main map with these 2 separate polygons. Other territories (e.g. French Polynesia) are too small to be viewed so can be ignored (depending on your map's purpose).
@@ -120,7 +122,9 @@ plot(baguetteless[1])
 plot(FRA_main[1])
 plot(guy[1])
 
-world <- rbind(baguetteless, FRA_main %>% select(-part), guy %>% select(-part))
+plot(FRA_main[2,])
+
+world <- rbind(baguetteless, FRA_main %>% dplyr::select(-part), guy %>% dplyr::select(-part))
 plot(world[1])
 
 # did it work?
@@ -164,7 +168,7 @@ incommon <- names(world2) %>% intersect(names(state_prov2))
 world_usca_admin <- rbind(world2[,incommon], state_prov2[,incommon])
 world_usca_admin[,c('admin','name','biogeographic_region')] %>% arrange(name) %>% print(n=300)
 
-plot((world_usca_admin %>% filter(admin %in% c("France", "French Guiana")))['biogeographic_region'])
+windows();plot((world_usca_admin %>% dplyr::filter(admin %in% c("France", "French Guiana")))['biogeographic_region'])
 
 # by now its already wrong
 #world2[,c('name','biogeographic_region')] %>% arrange(name) %>% print(n=300)

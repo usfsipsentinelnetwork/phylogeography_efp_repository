@@ -4,7 +4,7 @@ library(glmmTMB)
 library(ggplot2)
 library(cowplot)
 
-load("Final_output/PLS-models-9-10-23.RData")
+load("Final_output/PLS-models-3-11-25.RData")
 
 pls_out_1$model$FinalModel$coefficients['tt.1']
 pls_out_1$model$CoeffCFull
@@ -705,11 +705,13 @@ r2.pls <-
 
 # explained by first axis
 
+
+
 r2.pls <-
   r2.pls%>%
   
   # how much is the total explained ?
-  mutate( axis.total.t1 = .5819) %>%
+  mutate( axis.total.t1 = pls_out_1$model$R2[1]) %>%
   # explained by regression
   
   mutate( rel.r2.t1 = t1 * axis.total.t1)
@@ -720,7 +722,7 @@ r2.pls <-
   r2.pls%>%
   
   # how much is the total explained ?
-  mutate( axis.total.both = .6392) %>%
+  mutate( axis.total.both = pls_out_1$model$R2[2]) %>%
   # explained by regression
   
   mutate( rel.r2.t1 = t1 * axis.total.t1)
@@ -731,10 +733,10 @@ r2.pls <-
   r2.pls%>%
   
   # how much is the total explained ?
-  mutate( axis.total.t1 = .5819) %>%
+  mutate( axis.total.t1 = pls_out_1$model$R2[1]) %>%
   #mutate( axis.total.t2 = .6392) %>%
   
-  mutate( axis.total.t2 = .6392-.5819) %>%
+  mutate( axis.total.t2 = pls_out_1$model$R2[2]-pls_out_1$model$R2[1]) %>%
   
   # explained by regression
   
@@ -749,9 +751,9 @@ r2.pls['continent',] <- NA
 r2.pls['total',] <- NA
 
 r2.pls['total',c('rel.r2.t1','rel.r2.t2','total')] <-
-  c(.5819,
-    .6392-.5819,
-    .6392)
+  c(pls_out_1$model$R2[1],
+    pls_out_1$model$R2[1]-pls_out_1$model$R2[1],
+    pls_out_1$model$R2[1])
 
 r2.pls[c('full.int',
          'int',
@@ -762,26 +764,12 @@ r2.pls[c('full.int',
          'continent',
          'total',
          'fixed'),] %>% 
-  write.csv('Final_output/final_pls_R2.csv', row.names=T)
+  write.csv('Final_output/final_pls_R2_march2025.csv', row.names=T)
 
 #############
 
 #load('Final_output/zinf_model_final.RData')
-load("Final_output/linearmodels.RData")
-
-#anova(t1.factor)
-
-#(1 - sum((predict(t1.factor) - to_analyze$logNumber.of.pests)^2)/sum((mean(to_analyze$Number.of.pests) - to_analyze$Number.of.pests)^2)
-#)-
-#(1 - sum((predict(t1.factor, newdata=
-##          to_analyze %>%
-#          mutate(
-#            log_numexotics_centered=scale(0, T, F),
-#            NMDS.Distance_centered=scale(0, T, F)
-#          )) - to_analyze$logNumber.of.pests)^2)/sum((mean(to_analyze$Number.of.pests) - to_analyze$Number.of.pests)^2)
-#)
-
-#t1.factor$coefficients['NMDS.Distance_centered:log_numexotics_centered']
+load("Final_output/linearmodels_march4.2025.RData")
 
 zinf_pred <- predict(model_final_zinf_centered, type='response')
 ancova_pred <- predict(t1.factor) %>% exp
